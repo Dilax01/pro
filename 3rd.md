@@ -14,6 +14,12 @@
 <img src="https://img.shields.io/github/stars/DilaxScript?label=Stars&style=for-the-badge&color=00e5ff&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&labelColor=0d1117"/>
 
+<br/>
+
+<img src="https://img.shields.io/badge/🇱🇰_Jaffna,_Sri_Lanka-0d1117?style=for-the-badge&color=00e5ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Focus-Backend_%7C_DevSecOps-8A2BE2?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Currently_Building-SecureShield-FF6B6B?style=for-the-badge&labelColor=0d1117"/>
+
 </div>
 
 <br/>
@@ -50,25 +56,13 @@ const dilax = {
 
 ### 🖥️ Live Terminal
 
-```bash
-root@dilax:~$ whoami
-Jeyachandran Dilaxshan
+<div align="center">
 
-root@dilax:~$ role
-Software Engineer | DevSecOps
+**🔴 🟡 🟢**  `dilax@terminal — bash`
 
-root@dilax:~$ status
-Building secure systems...
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1600&pause=1400&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=440&lines=root%40dilax%3A~%24+cat+profile.json;%7B;++%22name%22%3A+%22Jeyachandran+Dilaxshan%22%2C;++%22alias%22%3A+%22DilaxScript%22%2C;++%22role%22%3A+%5B%22SE+Intern%22%2C+%22Full+Stack+Dev%22%2C+%22Backend+Dev%22%5D%2C;++%22location%22%3A+%22Jaffna%2C+Sri+Lanka%22%2C;++%22focus%22%3A+%5B%22Backend%22%2C+%22Cybersecurity%22%2C+%22DevSecOps%22%5D%2C;++%22learning%22%3A+%5B%22Container+Security%22%2C+%22SOC+Ops%22%2C+%22Cloud%22%5D%2C;++%22askMeAbout%22%3A+%5B%22FastAPI%22%2C+%22Django%22%2C+%22Laravel%22%2C+%22React%22%2C+%22Docker%22%5D%2C;++%22motto%22%3A+%22Secure+by+design.+Scalable+by+default.%22%2C;++%22openTo%22%3A+%5B%22Internships%22%2C+%22Collaborations%22%2C+%22Open+Source%22%5D;%7D;root%40dilax%3A~%24+echo+%22Lets+build+something+secure%22"/>
 
-root@dilax:~$ uptime
-Coding since 2021, no signs of stopping
-
-root@dilax:~$ sudo deploy production
-✔ Docker Started
-✔ CI/CD Passed
-✔ Security Scan Passed
-✔ Deployment Successful 🚀
-```
+</div>
 
 </td>
 </tr>

@@ -1,0 +1,203 @@
+<svg width="900" height="430" viewBox="0 0 900 430" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050a0f"/>
+      <stop offset="50%" stop-color="#091319"/>
+      <stop offset="100%" stop-color="#050a0f"/>
+    </linearGradient>
+    <filter id="glow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="430" rx="14" fill="url(#bgGrad2)"/>
+
+  <!-- terminal window -->
+  <rect x="30" y="30" width="840" height="370" rx="10" fill="#060d12" stroke="#123a33" stroke-width="1.5"/>
+  <rect x="30" y="30" width="840" height="30" rx="10" fill="#0b1a1f"/>
+  <circle cx="50" cy="45" r="5" fill="#ff5f56"/>
+  <circle cx="68" cy="45" r="5" fill="#ffbd2e"/>
+  <circle cx="86" cy="45" r="5" fill="#27c93f"/>
+  <text x="450" y="49" text-anchor="middle" font-family="Consolas, monospace" font-size="12" fill="#4a7a70">dilax@kali: ~/about &mdash; node about.js</text>
+
+  <text x="60" y="85" font-family="Consolas, monospace" font-size="13.5" fill="#00ffc8" filter="url(#glow2)">$ node about.js</text>
+
+  <clipPath id="clip0">
+    <rect x="126" y="92" width="0" height="20">
+      <animate attributeName="width" values="0;0;126.8;126.8;0" keyTimes="0;0.0275;0.0485;0.9;0.985" dur="20.0s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+  </clipPath>
+  <clipPath id="clip1">
+    <rect x="126" y="116" width="0" height="20">
+      <animate attributeName="width" values="0;0;271.7;271.7;0" keyTimes="0;0.0535;0.0997;0.9;0.985" dur="20.0s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+  </clipPath>
+  <clipPath id="clip2">
+    <rect x="126" y="140" width="0" height="20">
+      <animate attributeName="width" values="0;0;191.2;191.2;0" keyTimes="0;0.1047;0.1369;0.9;0.985" dur="20.0s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+  </clipPath>
+  <clipPath id="clip3">
+    <rect x="126" y="164" width="0" height="20">
+      <animate attributeName="width" values="0;0;569.5;569.5;0" keyTimes="0;0.1419;0.2399;0.9;0.985" dur="20.0s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+  </clipPath>
+  <clipPath id="clip4">
+    <rect x="126" y="188" width="0" height="20">
+      <animate attributeName="width" values="0;0;263.6;263.6;0" keyTimes="0;0.2449;0.2897;0.9;0.985" dur="20.0s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+  </clipPath>
+  <clipPath id="clip5">
+    <rect x="126" y="212" width="0" height="20">
+      <animate attributeName="width" values="0;0;416.6;416.6;0" keyTimes="0;0.2947;0.3661;0.9;0.985" dur="20.0s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+  </clipPath>
+  <clipPath id="clip6">
+    <rect x="126" y="236" width="0" height="20">
+      <animate attributeName="width" values="0;0;521.2;521.2;0" keyTimes="0;0.3711;0.4607;0.9;0.985" dur="20.0s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+  </clipPath>
+  <clipPath id="clip7">
+    <rect x="126" y="260" width="0" height="20">
+      <animate attributeName="width" values="0;0;609.8;609.8;0" keyTimes="0;0.4657;0.5707;0.9;0.985" dur="20.0s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+  </clipPath>
+  <clipPath id="clip8">
+    <rect x="126" y="284" width="0" height="20">
+      <animate attributeName="width" values="0;0;561.5;561.5;0" keyTimes="0;0.5757;0.6723;0.9;0.985" dur="20.0s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+  </clipPath>
+  <clipPath id="clip9">
+    <rect x="126" y="308" width="0" height="20">
+      <animate attributeName="width" values="0;0;472.9;472.9;0" keyTimes="0;0.6773;0.7585;0.9;0.985" dur="20.0s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+  </clipPath>
+  <clipPath id="clip10">
+    <rect x="126" y="332" width="0" height="20">
+      <animate attributeName="width" values="0;0;22.1;22.1;0" keyTimes="0;0.7635;0.7775;0.9;0.985" dur="20.0s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip0)">
+    <text x="130" y="108" font-family="Consolas, monospace" font-size="13.5">
+      <tspan fill="#ff6ac1">const</tspan>
+      <tspan fill="#7f9a95"> dilax = {</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#clip1)">
+    <text x="130" y="132" font-family="Consolas, monospace" font-size="13.5">
+      <tspan fill="#4fd1c5">  name</tspan>
+      <tspan fill="#7f9a95">: </tspan>
+      <tspan fill="#ffb454">&quot;Jeyachandran Dilaxshan&quot;</tspan>
+      <tspan fill="#7f9a95">,</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#clip2)">
+    <text x="130" y="156" font-family="Consolas, monospace" font-size="13.5">
+      <tspan fill="#4fd1c5">  alias</tspan>
+      <tspan fill="#7f9a95">: </tspan>
+      <tspan fill="#ffb454">&quot;DilaxScript&quot;</tspan>
+      <tspan fill="#7f9a95">,</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#clip3)">
+    <text x="130" y="180" font-family="Consolas, monospace" font-size="13.5">
+      <tspan fill="#4fd1c5">  role</tspan>
+      <tspan fill="#7f9a95">: [</tspan>
+      <tspan fill="#ffb454">&quot;Software Engineer Intern&quot;</tspan>
+      <tspan fill="#7f9a95">, </tspan>
+      <tspan fill="#ffb454">&quot;Full Stack Dev&quot;</tspan>
+      <tspan fill="#7f9a95">, </tspan>
+      <tspan fill="#ffb454">&quot;Backend Dev&quot;</tspan>
+      <tspan fill="#7f9a95">],</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#clip4)">
+    <text x="130" y="204" font-family="Consolas, monospace" font-size="13.5">
+      <tspan fill="#4fd1c5">  location</tspan>
+      <tspan fill="#7f9a95">: </tspan>
+      <tspan fill="#ffb454">&quot;Jaffna, Sri Lanka&quot;</tspan>
+      <tspan fill="#7f9a95">,</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#clip5)">
+    <text x="130" y="228" font-family="Consolas, monospace" font-size="13.5">
+      <tspan fill="#4fd1c5">  focus</tspan>
+      <tspan fill="#7f9a95">: [</tspan>
+      <tspan fill="#ffb454">&quot;Backend&quot;</tspan>
+      <tspan fill="#7f9a95">, </tspan>
+      <tspan fill="#ffb454">&quot;Cybersecurity&quot;</tspan>
+      <tspan fill="#7f9a95">, </tspan>
+      <tspan fill="#ffb454">&quot;DevSecOps&quot;</tspan>
+      <tspan fill="#7f9a95">],</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#clip6)">
+    <text x="130" y="252" font-family="Consolas, monospace" font-size="13.5">
+      <tspan fill="#4fd1c5">  learning</tspan>
+      <tspan fill="#7f9a95">: [</tspan>
+      <tspan fill="#ffb454">&quot;Container Security&quot;</tspan>
+      <tspan fill="#7f9a95">, </tspan>
+      <tspan fill="#ffb454">&quot;SOC Ops&quot;</tspan>
+      <tspan fill="#7f9a95">, </tspan>
+      <tspan fill="#ffb454">&quot;Cloud Security&quot;</tspan>
+      <tspan fill="#7f9a95">],</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#clip7)">
+    <text x="130" y="276" font-family="Consolas, monospace" font-size="13.5">
+      <tspan fill="#4fd1c5">  askMeAbout</tspan>
+      <tspan fill="#7f9a95">: [</tspan>
+      <tspan fill="#ffb454">&quot;FastAPI&quot;</tspan>
+      <tspan fill="#7f9a95">, </tspan>
+      <tspan fill="#ffb454">&quot;Django&quot;</tspan>
+      <tspan fill="#7f9a95">, </tspan>
+      <tspan fill="#ffb454">&quot;Laravel&quot;</tspan>
+      <tspan fill="#7f9a95">, </tspan>
+      <tspan fill="#ffb454">&quot;React&quot;</tspan>
+      <tspan fill="#7f9a95">, </tspan>
+      <tspan fill="#ffb454">&quot;Docker&quot;</tspan>
+      <tspan fill="#7f9a95">, </tspan>
+      <tspan fill="#ffb454">&quot;Trivy&quot;</tspan>
+      <tspan fill="#7f9a95">],</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#clip8)">
+    <text x="130" y="300" font-family="Consolas, monospace" font-size="13.5">
+      <tspan fill="#4fd1c5">  motto</tspan>
+      <tspan fill="#7f9a95">: </tspan>
+      <tspan fill="#ffb454">&quot;Secure by design. Scalable by default. Elegant by intent.&quot;</tspan>
+      <tspan fill="#7f9a95">,</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#clip9)">
+    <text x="130" y="324" font-family="Consolas, monospace" font-size="13.5">
+      <tspan fill="#4fd1c5">  openTo</tspan>
+      <tspan fill="#7f9a95">: [</tspan>
+      <tspan fill="#ffb454">&quot;Internships&quot;</tspan>
+      <tspan fill="#7f9a95">, </tspan>
+      <tspan fill="#ffb454">&quot;Collaborations&quot;</tspan>
+      <tspan fill="#7f9a95">, </tspan>
+      <tspan fill="#ffb454">&quot;Open Source&quot;</tspan>
+      <tspan fill="#7f9a95">]</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#clip10)">
+    <text x="130" y="348" font-family="Consolas, monospace" font-size="13.5">
+      <tspan fill="#7f9a95">};</tspan>
+    </text>
+  </g>
+
+  <rect width="9" height="16" fill="#00ffc8" filter="url(#glow2)">
+    <animate attributeName="x" values="128.0;250.8;128.0;395.7;128.0;315.1;128.0;693.5;128.0;387.6;128.0;540.5;128.0;645.2;128.0;733.8;128.0;685.5;128.0;596.9;128.0;146.1;146.1;128.0" keyTimes="0.0275;0.0485;0.0535;0.0997;0.1047;0.1369;0.1419;0.2399;0.2449;0.2897;0.2947;0.3661;0.3711;0.4607;0.4657;0.5707;0.5757;0.6723;0.6773;0.7585;0.7635;0.7775;0.985;1" dur="20.0s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="y" values="97.0;97.0;121.0;121.0;145.0;145.0;169.0;169.0;193.0;193.0;217.0;217.0;241.0;241.0;265.0;265.0;289.0;289.0;313.0;313.0;337.0;337.0;337.0;97.0" keyTimes="0.0275;0.0485;0.0535;0.0997;0.1047;0.1369;0.1419;0.2399;0.2449;0.2897;0.2947;0.3661;0.3711;0.4607;0.4657;0.5707;0.5757;0.6723;0.6773;0.7585;0.7635;0.7775;0.985;1" dur="20.0s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="opacity" values="1;0;1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+
+
+  <text x="60" y="390" font-family="Consolas, monospace" font-size="12.5" fill="#27c93f" opacity="0">
+    ✔ profile.json loaded &mdash; ready for internship 🚀
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.7925;0.8225;0.9;0.985" dur="20.0s" repeatCount="indefinite"/>
+  </text>
+
+</svg>

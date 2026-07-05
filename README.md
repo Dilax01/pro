@@ -56,6 +56,10 @@ const dilax = {
   <a href="https://dev.to/dilaxscript"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="./assets/scan-banner.svg" alt="Security scan animation" width="100%"/>
+</p>
+
 ---
 
 <!-- ===================== TECH STACK ===================== -->

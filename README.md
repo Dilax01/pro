@@ -158,13 +158,6 @@ const dilax = {
   <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DilaxScript&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DilaxScript&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DilaxScript&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DilaxScript&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
----
 
 <!-- ===================== TROPHIES ===================== -->
 <h2 align="center">🏆 GitHub Trophies</h2>
